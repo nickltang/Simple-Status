@@ -10,8 +10,6 @@ Designed for indie devs, small startups, and teams that want to keep users infor
 * Provides a clean, branded **public page** to show uptime history.
 * Sends **notifications** (Slack, email, webhook).
 
----
-
 ## 🚀 Features
 
 * **Status Pages** – Create branded pages for your services.
@@ -22,8 +20,6 @@ Designed for indie devs, small startups, and teams that want to keep users infor
 * **Public Pages** – Share uptime and incident history with customers.
 * **Affordable** – Transparent pricing with free tier.
 
----
-
 ## 🛠️ Tech Stack
 
 * **Backend:** Go (Gin)
@@ -32,7 +28,6 @@ Designed for indie devs, small startups, and teams that want to keep users infor
 * **Infrastructure:** Docker, Terraform, AWS (ECS, RDS, ALB, SES)
 * **Payments:** Stripe
 
----
 
 ## 📦 Getting Started (Local Dev)
 
@@ -67,9 +62,4 @@ npm run dev
 
 Visit: `http://localhost:3000`
 
----
-
-
-
----
 
